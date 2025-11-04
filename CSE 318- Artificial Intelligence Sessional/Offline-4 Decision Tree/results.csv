@@ -1,0 +1,228 @@
+Criteria: IG, Max Depth: 0
+Node: 9537, Depth: 10
+Avg Accuracy: 83.8099
+Criteria: IG, Max Depth: 1
+Node: 7, Depth: 0
+Avg Accuracy: 75.7962
+Criteria: IG, Max Depth: 2
+Node: 217, Depth: 0
+Avg Accuracy: 82.4171
+Criteria: IG, Max Depth: 3
+Node: 774, Depth: 0
+Avg Accuracy: 84.5961
+Criteria: IG, Max Depth: 4
+Node: 2150, Depth: 0
+Avg Accuracy: 84.9647
+Criteria: IG, Max Depth: 5
+Node: 3928, Depth: 0
+Avg Accuracy: 84.471
+Criteria: IG, Max Depth: 6
+Node: 5724, Depth: 0
+Avg Accuracy: 83.9658
+Criteria: IG, Max Depth: 7
+Node: 7068, Depth: 0
+Avg Accuracy: 83.7922
+Criteria: IG, Max Depth: 8
+Node: 7968, Depth: 0
+Avg Accuracy: 83.9427
+Criteria: IGR, Max Depth: 0
+Node: 7462, Depth: 10
+Avg Accuracy: 84.7604
+Criteria: IGR, Max Depth: 1
+Node: 117, Depth: 0
+Avg Accuracy: 81.0281
+Criteria: IGR, Max Depth: 2
+Node: 226, Depth: 0
+Avg Accuracy: 83.082
+Criteria: IGR, Max Depth: 3
+Node: 282, Depth: 0
+Avg Accuracy: 82.94
+Criteria: IGR, Max Depth: 4
+Node: 429, Depth: 0
+Avg Accuracy: 86.1003
+Criteria: IGR, Max Depth: 5
+Node: 1189, Depth: 0
+Avg Accuracy: 85.6787
+Criteria: IGR, Max Depth: 6
+Node: 2419, Depth: 0
+Avg Accuracy: 85.5567
+Criteria: IGR, Max Depth: 7
+Node: 4063, Depth: 0
+Avg Accuracy: 85.2396
+Criteria: IGR, Max Depth: 8
+Node: 5444, Depth: 0
+Avg Accuracy: 84.9086
+Criteria: NWIG, Max Depth: 0
+Node: 7210, Depth: 10
+Avg Accuracy: 84.0817
+Criteria: NWIG, Max Depth: 1
+Node: 7, Depth: 0
+Avg Accuracy: 75.7747
+Criteria: NWIG, Max Depth: 2
+Node: 158, Depth: 0
+Avg Accuracy: 83.0106
+Criteria: NWIG, Max Depth: 3
+Node: 683, Depth: 0
+Avg Accuracy: 84.3842
+Criteria: NWIG, Max Depth: 4
+Node: 1625, Depth: 0
+Avg Accuracy: 84.9171
+Criteria: NWIG, Max Depth: 5
+Node: 3093, Depth: 0
+Avg Accuracy: 84.6437
+Criteria: NWIG, Max Depth: 6
+Node: 5026, Depth: 0
+Avg Accuracy: 84.1278
+Criteria: NWIG, Max Depth: 7
+Node: 6325, Depth: 0
+Avg Accuracy: 84.117
+Criteria: NWIG, Max Depth: 8
+Node: 6938, Depth: 0
+Avg Accuracy: 84.051
+Criteria: IG, Max Depth: 0
+Node: 14, Depth: 3
+Avg Accuracy: 86.6667
+Criteria: IG, Max Depth: 1
+Node: 4, Depth: 0
+Avg Accuracy: 90
+Criteria: IG, Max Depth: 2
+Node: 8, Depth: 0
+Avg Accuracy: 96.6667
+Criteria: IG, Max Depth: 3
+Node: 14, Depth: 0
+Avg Accuracy: 100
+Criteria: IG, Max Depth: 4
+Node: 10, Depth: 0
+Avg Accuracy: 80
+Criteria: IG, Max Depth: 5
+Node: 14, Depth: 0
+Avg Accuracy: 90
+Criteria: IG, Max Depth: 6
+Node: 13, Depth: 0
+Avg Accuracy: 96.6667
+Criteria: IG, Max Depth: 7
+Node: 14, Depth: 0
+Avg Accuracy: 96.6667
+Criteria: IG, Max Depth: 8
+Node: 9, Depth: 0
+Avg Accuracy: 90
+Criteria: IGR, Max Depth: 0
+Node: 12, Depth: 3
+Avg Accuracy: 100
+Criteria: IGR, Max Depth: 1
+Node: 4, Depth: 0
+Avg Accuracy: 83.3333
+Criteria: IGR, Max Depth: 2
+Node: 8, Depth: 0
+Avg Accuracy: 93.3333
+Criteria: IGR, Max Depth: 3
+Node: 14, Depth: 0
+Avg Accuracy: 83.3333
+Criteria: IGR, Max Depth: 4
+Node: 9, Depth: 0
+Avg Accuracy: 86.6667
+Criteria: IGR, Max Depth: 5
+Node: 12, Depth: 0
+Avg Accuracy: 96.6667
+Criteria: IGR, Max Depth: 6
+Node: 14, Depth: 0
+Avg Accuracy: 90
+Criteria: IGR, Max Depth: 7
+Node: 14, Depth: 0
+Avg Accuracy: 90
+Criteria: IGR, Max Depth: 8
+Node: 9, Depth: 0
+Avg Accuracy: 83.3333
+Criteria: NWIG, Max Depth: 0
+Node: 13, Depth: 3
+Avg Accuracy: 90
+Criteria: NWIG, Max Depth: 1
+Node: 4, Depth: 0
+Avg Accuracy: 90
+Criteria: NWIG, Max Depth: 2
+Node: 8, Depth: 0
+Avg Accuracy: 86.6667
+Criteria: NWIG, Max Depth: 3
+Node: 12, Depth: 0
+Avg Accuracy: 87.3333
+Criteria: NWIG, Max Depth: 4
+Node: 14, Depth: 0
+Avg Accuracy: 90
+Criteria: NWIG, Max Depth: 5
+Node: 12, Depth: 0
+Avg Accuracy: 86.6667
+Criteria: NWIG, Max Depth: 6
+Node: 7, Depth: 0
+Avg Accuracy: 80
+Criteria: NWIG, Max Depth: 7
+Node: 14, Depth: 0
+Avg Accuracy: 83.3333
+Criteria: NWIG, Max Depth: 8
+Node: 14, Depth: 0
+Avg Accuracy: 93.3333
+Criteria: NWIG, Max Depth: 0
+Node: 9926, Depth: 10
+Avg Accuracy: 83.0336
+Criteria: NWIG, Max Depth: 1
+Node: 3, Depth: 0
+Avg Accuracy: 75.8193
+Criteria: NWIG, Max Depth: 0
+Node: 9272, Depth: 10
+Avg Accuracy: 84.1162
+Criteria: NWIG, Max Depth: 1
+Node: 7, Depth: 0
+Avg Accuracy: 75.9866
+Criteria: NWIG, Max Depth: 2
+Node: 184, Depth: 0
+Avg Accuracy: 82.9
+Criteria: NWIG, Max Depth: 3
+Node: 661, Depth: 0
+Avg Accuracy: 84.4334
+Criteria: NWIG, Max Depth: 4
+Node: 1619, Depth: 0
+Avg Accuracy: 84.8948
+Criteria: NWIG, Max Depth: 0
+Node: 14, Depth: 3
+Avg Accuracy: 86.6667
+Criteria: NWIG, Max Depth: 1
+Node: 4, Depth: 0
+Avg Accuracy: 83.3333
+Criteria: NWIG, Max Depth: 2
+Node: 8, Depth: 0
+Avg Accuracy: 93.3333
+Criteria: NWIG, Max Depth: 3
+Node: 14, Depth: 0
+Avg Accuracy: 93.3333
+Criteria: NWIG, Max Depth: 4
+Node: 9, Depth: 0
+Avg Accuracy: 90
+Criteria: NWIG, Max Depth: 5
+Node: 14, Depth: 0
+Avg Accuracy: 90
+Criteria: NWIG, Max Depth: 6
+Node: 14, Depth: 0
+Avg Accuracy: 100
+Criteria: NWIG, Max Depth: 7
+Node: 14, Depth: 0
+Avg Accuracy: 93.3333
+Criteria: NWIG, Max Depth: 8
+Node: 14, Depth: 0
+Avg Accuracy: 93.3333
+Criteria: IG, Max Depth: 3
+Node: 14, Depth: 0
+Avg Accuracy: 86.6667
+Criteria: IG, Max Depth: 1
+Node: 4, Depth: 0
+Avg Accuracy: 93.3333
+Criteria: IG, Max Depth: 2
+Node: 8, Depth: 0
+Avg Accuracy: 96.6667
+Criteria: IG, Max Depth: 3
+Node: 10, Depth: 0
+Avg Accuracy: 90
+Criteria: GINI, Max Depth: 3
+Node: 15, Depth: 0
+Avg Accuracy: 83.3333
+Criteria: GINI, Max Depth: 3
+Node: 18, Depth: 0
+Avg Accuracy: 83.3333

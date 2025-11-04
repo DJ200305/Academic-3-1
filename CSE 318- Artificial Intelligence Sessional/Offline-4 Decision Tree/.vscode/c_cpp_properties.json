@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "intelliSenseMode": "windows-gcc-x64",  // <- switch from windows-msvc-x64
+      "compilerPath": "C:\\MinGW\\bin\\g++.exe", // <- update to your actual g++ path
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:\\MinGW\\include",  // Adjust path if needed
+        "C:\\MinGW\\**" // Exact version may vary
+      ]
+    }
+  ],
+  "version": 4
+}
